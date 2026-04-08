@@ -16,6 +16,14 @@
 /headers-customer.txt
 /headers-developer.txt
 /license_check_tmp.php
+/app/Views/admin/dashboard.replacement.php
+/app/Views/admin/license-activation.php
+/app/Views/admin/licenses.php
+/app/Controllers/LicenseController.php
+/storage/dashboard-audit.php
+/storage/dashboard-verify.php
+/storage/installer-check-source.php
+/storage/installer-e2e-verify.php
 
 *.tmp
 *.log
