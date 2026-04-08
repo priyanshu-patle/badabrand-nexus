@@ -1,8 +1,29 @@
 # Badabrand Technologies
 
+![PHP 8.1+](https://img.shields.io/badge/PHP-8.1%2B-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL Ready](https://img.shields.io/badge/MySQL-Ready-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Installer Included](https://img.shields.io/badge/Web_Installer-Included-1E90FF?style=for-the-badge)
+![Themes](https://img.shields.io/badge/Themes-Dark%20%2F%20Light%20%2F%20Midnight-111827?style=for-the-badge)
+![Vendor Ready](https://img.shields.io/badge/Vendor-Multi--Vendor_Ready-0F766E?style=for-the-badge)
+![Referrals](https://img.shields.io/badge/Referral-System_Enabled-F59E0B?style=for-the-badge)
+
 Badabrand Technologies is a modern SaaS platform for IT companies, digital agencies, software businesses, freelancers, and managed service teams that need a clean operations workspace, a client-facing portal, a digital marketplace, and a production-ready deployment flow.
 
 It is designed as a commercial-ready product for direct client delivery, self-hosted business use, and marketplace distribution.
+
+## Product preview
+
+### Admin workspace
+
+![Admin workspace preview](public/assets/images/github/admin-dashboard-preview.svg)
+
+### Premium installer
+
+![Installer preview](public/assets/images/github/installer-preview.svg)
+
+### Marketplace system
+
+![Marketplace preview](public/assets/images/github/marketplace-preview.svg)
 
 ## Why this product is valuable
 
@@ -155,6 +176,10 @@ This branding is intentionally hardcoded in the admin layout and is not editable
 - referral system guide
 - installation and deployment guide
 - troubleshooting and maintenance guide
+
+## Release notes
+
+- [v15 release notes](RELEASE-v15.md)
 
 ## Support defaults
 
