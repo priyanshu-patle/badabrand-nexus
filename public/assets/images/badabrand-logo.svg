@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Badabrand Technologies">
+  <defs>
+    <linearGradient id="bbGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5a7bff"/>
+      <stop offset="100%" stop-color="#27d7ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="#0d1437"/>
+  <rect x="10" y="10" width="44" height="44" rx="14" fill="rgba(255,255,255,0.04)" stroke="rgba(125,146,255,0.18)"/>
+  <path d="M22 17h12c7.8 0 12.5 3.4 12.5 9.6 0 4.4-2.1 7-6.4 8.4 5.2 1.1 8.2 4.4 8.2 9.8 0 7.8-5.8 12.2-15.5 12.2H22V17zm11.1 15.5c4.5 0 6.9-1.7 6.9-4.9 0-3.3-2.4-5-6.9-5h-4.4v9.9h4.4zm1.3 18.4c5.3 0 8-2.1 8-6.3 0-4.4-2.7-6.6-8-6.6h-5.7v12.9h5.7z" fill="url(#bbGrad)"/>
+</svg>

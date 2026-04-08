@@ -1,0 +1,1 @@
+<section class="inner-hero"><div class="container"><span class="eyebrow">404</span><h1>The page you’re looking for is not available.</h1><a class="btn btn-primary rounded-pill mt-3" href="<?= route_url('/') ?>">Back to Home</a></div></section>
